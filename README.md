@@ -1,2 +1,2 @@
 # WaveGenOpt
-#Inputting Sensor RMS Values and Motor Position values into the main loop. Haven't Performed the optimization yet.
+#Inputting sensor RMS value and motor position value arrays into the main loop. Haven't performed the optimization yet.
